@@ -31,11 +31,12 @@ build/
 
 ### VS Code ###
 .vscode/
-target/
 bin/
+
+### OS & Logs ###
+*.log
 .DS_Store
-.DS_Store
-target/
-.DS_Store
-target/
-.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
